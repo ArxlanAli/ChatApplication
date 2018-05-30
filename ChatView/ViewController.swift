@@ -219,7 +219,6 @@ class ChatViewController: UICollectionViewController,UICollectionViewDelegateFlo
     
     
     
-    
 }
 
 
